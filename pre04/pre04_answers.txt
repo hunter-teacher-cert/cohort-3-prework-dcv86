@@ -6,7 +6,7 @@
 2. (I struggled with this question)
 bizz = 5
 buzz = 2
-just for fred 5
+just for  5
 not
 >clink(4)
 

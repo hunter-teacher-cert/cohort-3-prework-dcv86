@@ -11,7 +11,7 @@ public class Beer {
 			System.out.println(beers + BoB +". "+ beers + BoB + ". ");
 			System.out.println(ToD);
 			beers = beers - 1; 
-			System.out.println(beers + BoB + ".");
+			System.out.println(beers + BoB + ".");{}
 		}
 
 		
